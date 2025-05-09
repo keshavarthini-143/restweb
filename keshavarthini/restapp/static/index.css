@@ -1,0 +1,70 @@
+body {
+    background-image: url('bg2.jpg'); /* General background image */
+    background-size: cover; /* Cover the entire body */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #f8f8f8;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+nav ul li a:hover {
+    color: orange;
+}
+
+#about {
+    background-color: orange;
+    padding: 20px;
+    margin: 20px;
+}
+
+#about h2 {
+    color: #fff;
+}
+
+#about img {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    width: 420px;
+    height: 250px;
+}
+
+.image-row {
+    background-image: url('bg1.jpg'); /* Menu background image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px; /* Add padding for spacing */
+    margin-top: 20px; /* Add margin to separate from the About Us section */
+}
+
+.image-row img { /* Style for the food image within the image-row */
+    display: block; /* Make the image a block-level element */
+    margin: 0 auto;  /* Center the image horizontally */
+    width: auto;     /* Let the width adjust automatically */
+    height: auto;    /* Let the height adjust automatically */
+    max-width: 100%; /* Ensure the image doesn't exceed the container's width */
+    max-height: 100%;/* Ensure the image doesn't exceed the container's height */
+}

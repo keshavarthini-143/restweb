@@ -1,0 +1,19 @@
+.team-container {
+    display: flex;
+    flex-wrap: wrap; /* Allows wrapping if screen is too small */
+    justify-content: center; /* Optional: centers the items */
+    gap: 20px; /* Adds space between items */
+    padding: 20px;
+}
+
+.team-member {
+    text-align: center;
+    width: 200px;
+}
+
+.team-member img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px; /* Optional: round corners */
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
