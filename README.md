@@ -420,11 +420,14 @@ style.css
 
 ## OUTPUT:
 
-![alt text](in1.png)
+![Screenshot 2025-05-10 103940](https://github.com/user-attachments/assets/88584b12-aa27-4f4a-aa17-1dfd4e7ec3d3)
 
-![alt text](in2.png)
+![Screenshot 2025-05-10 105027](https://github.com/user-attachments/assets/366ba1f7-b5a0-4f73-89c3-5228a287e3de)
 
-![alt text](in3.png)
+![Screenshot 2025-05-10 105050](https://github.com/user-attachments/assets/2b3c2310-4905-48cd-a8e6-714806b529cc)
+
+![team2](https://github.com/user-attachments/assets/690a7aa9-b281-4bb9-b517-6d66a6b0c634)
+
 
 ![alt text](in4.png)
 
